@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+numpy==1.26.4
+scikit-surprise
+requests
